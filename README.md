@@ -1,5 +1,8 @@
 ## Hi there 👋
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on plython cli to interact with aerleon 
+- 🌱 I’m currently learning Automation on Arista and Go lang
 <!--
 **fabio-marino/Fabio-marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
